@@ -1,3 +1,7 @@
 html.dim .backgrounds {
-   filter: saturate(0) brightness(.4);
+   filter: saturate(0.1) brightness(.4);
+}
+
+html.dim2 .backgrounds {
+   filter: saturate(0.1) brightness(.3);
 }
